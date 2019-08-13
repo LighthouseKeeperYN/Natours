@@ -42,11 +42,11 @@
   }
 
   &--green {
-    background-color: $color-primary-light;
+    background-color: $color-primary;
     color: $color-white;
 
     &::after {
-      background-color: $color-primary-light;
+      background-color: $color-primary;
     }
   }
 
